@@ -1,0 +1,17 @@
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\bin\Debug\net8.0\BankProject.Application.deps.json
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\bin\Debug\net8.0\BankProject.Application.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\bin\Debug\net8.0\BankProject.Application.pdb
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\bin\Debug\net8.0\BankProject.Domain.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\bin\Debug\net8.0\BankProject.Persistence.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\bin\Debug\net8.0\BankProject.Persistence.pdb
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\bin\Debug\net8.0\BankProject.Domain.pdb
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\obj\Debug\net8.0\BankProject.Application.csproj.AssemblyReference.cache
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\obj\Debug\net8.0\BankProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\obj\Debug\net8.0\BankProject.Application.AssemblyInfoInputs.cache
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\obj\Debug\net8.0\BankProject.Application.AssemblyInfo.cs
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\obj\Debug\net8.0\BankProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\obj\Debug\net8.0\BankProj.85E38E97.Up2Date
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\obj\Debug\net8.0\BankProject.Application.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\obj\Debug\net8.0\refint\BankProject.Application.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\obj\Debug\net8.0\BankProject.Application.pdb
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Application\obj\Debug\net8.0\ref\BankProject.Application.dll

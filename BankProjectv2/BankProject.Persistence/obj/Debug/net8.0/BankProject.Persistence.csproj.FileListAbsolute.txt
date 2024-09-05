@@ -1,0 +1,15 @@
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\bin\Debug\net8.0\BankProject.Persistence.deps.json
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\bin\Debug\net8.0\BankProject.Persistence.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\bin\Debug\net8.0\BankProject.Persistence.pdb
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\bin\Debug\net8.0\BankProject.Domain.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\bin\Debug\net8.0\BankProject.Domain.pdb
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\obj\Debug\net8.0\BankProject.Persistence.csproj.AssemblyReference.cache
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\obj\Debug\net8.0\BankProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\obj\Debug\net8.0\BankProject.Persistence.AssemblyInfoInputs.cache
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\obj\Debug\net8.0\BankProject.Persistence.AssemblyInfo.cs
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\obj\Debug\net8.0\BankProject.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\obj\Debug\net8.0\BankProj.9330A38D.Up2Date
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\obj\Debug\net8.0\BankProject.Persistence.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\obj\Debug\net8.0\refint\BankProject.Persistence.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\obj\Debug\net8.0\BankProject.Persistence.pdb
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Persistence\obj\Debug\net8.0\ref\BankProject.Persistence.dll

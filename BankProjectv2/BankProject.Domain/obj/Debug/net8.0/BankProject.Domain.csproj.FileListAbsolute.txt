@@ -1,0 +1,12 @@
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\bin\Debug\net8.0\BankProject.Domain.deps.json
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\bin\Debug\net8.0\BankProject.Domain.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\bin\Debug\net8.0\BankProject.Domain.pdb
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\obj\Debug\net8.0\BankProject.Domain.csproj.AssemblyReference.cache
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\obj\Debug\net8.0\BankProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\obj\Debug\net8.0\BankProject.Domain.AssemblyInfoInputs.cache
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\obj\Debug\net8.0\BankProject.Domain.AssemblyInfo.cs
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\obj\Debug\net8.0\BankProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\obj\Debug\net8.0\BankProject.Domain.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\obj\Debug\net8.0\refint\BankProject.Domain.dll
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\obj\Debug\net8.0\BankProject.Domain.pdb
+C:\Users\burak\RiderProjects\BankProjectv2\BankProject.Domain\obj\Debug\net8.0\ref\BankProject.Domain.dll
